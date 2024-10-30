@@ -1,0 +1,52 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Subtract the blocks and find the answer:<br><img width='50%' src='./images/11.png'>",
+        "options": [
+            "20",
+            "21",
+            "22"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Find the answer by subtracting the given blocks.<br><img width='50%' src='./images/12.png'>",
+        "options": [
+            "10",
+            "12",
+            "11"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Find the answer by subtracting the given blocks:<br><img width='50%' src='./images/13.png'>",
+        "options": [
+            "20",
+            "21",
+            "22"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Subtract the blocks and find the answer:<br><img width='50%' src='./images/14.png'>",
+        "options": [
+            "2",
+            "20",
+            "12"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Find the total by subtracting the given blocks:<br><img width='50%' src='./images/15.png'>",
+        "options": [
+            "11",
+            "12",
+            "10"
+        ],
+        "correct": 2
+    }
+]
